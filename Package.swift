@@ -35,7 +35,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: packageName,
-            url: "https://d3opqjmqzxf057.cloudfront.net/vonage-webrtc/pod/vonagewebrtc/release/99.2.39/VonageWebRTC-99.2.39.zip",
+            url: "https://98point6-ios-sdk-swiftpm-binary.s3.us-west-2.amazonaws.com/OTXCFrameworks/VonageWebRTC-99.2.39.zip",
             checksum: "5b8912086bc55da7c938e672a473315bab707a5de6a499bc8a83555abc920ae4"
             ),
     ]
